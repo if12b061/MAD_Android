@@ -1,0 +1,14 @@
+<!-- a. One of the Fragments must contain the UI / Logic to subscribe to a RSS feed (1P)  -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="at.technikum_wien.if12b061.mad_android.AddFeedFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="subscribe to new feed..." />
+
+
+</FrameLayout>
